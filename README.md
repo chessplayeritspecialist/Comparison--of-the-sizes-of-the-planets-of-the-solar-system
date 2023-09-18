@@ -15,7 +15,7 @@ __ПО__: Blender3d
 
 В проекте нет текстур.
 
-Видео на канале: [Chessplayer - IT Specialist]("https://www.youtube.com/watch?v=pP6kH8qXePE&t=2s")
+Видео на канале: [https://www.youtube.com/watch?v=pP6kH8qXePE&t=2s]("https://www.youtube.com/watch?v=pP6kH8qXePE&t=2s")
 
 Видео разработки: [Разработка модели]("https://www.youtube.com/watch?v=nq7yb_jQ9KI&t=93s")
 
