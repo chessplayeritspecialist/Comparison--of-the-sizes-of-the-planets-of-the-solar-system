@@ -17,7 +17,7 @@ __ПО__: Blender3d
 
 Видео на канале: [https://www.youtube.com/watch?v=pP6kH8qXePE&t=2s]("https://www.youtube.com/watch?v=pP6kH8qXePE&t=2s")
 
-Видео разработки: [Разработка модели]("https://www.youtube.com/watch?v=nq7yb_jQ9KI&t=93s")
+Видео разработки: [https://www.youtube.com/watch?v=nq7yb_jQ9KI&t=93s]("https://www.youtube.com/watch?v=nq7yb_jQ9KI&t=93s")
 
 ### Зачем нужен:  
 Модель была создана с целью показать размеры космических объектов. И показать людям размеры планет.
